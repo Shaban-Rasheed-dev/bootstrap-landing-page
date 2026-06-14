@@ -5,7 +5,7 @@ A modern and fully responsive **fashion landing page** built using HTML, CSS, an
 ---
 
 ##  Live Demo
- https://your-username.github.io/fashion-landing-page/
+https://shaban-rasheed-dev.github.io/bootstrap-landing-page/
 
 ---
 

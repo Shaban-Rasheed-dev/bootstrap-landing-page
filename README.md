@@ -4,12 +4,12 @@ A modern and fully responsive **fashion landing page** built using HTML, CSS, an
 
 ---
 
-## 🚀 Live Demo
-👉 https://your-username.github.io/fashion-landing-page/
+##  Live Demo
+ https://your-username.github.io/fashion-landing-page/
 
 ---
 
-## 📌 Features
+##  Features
 - Fully responsive layout (mobile + desktop)
 - Modern and clean UI design
 - Built with Bootstrap 5
@@ -19,7 +19,7 @@ A modern and fully responsive **fashion landing page** built using HTML, CSS, an
 
 ---
 
-## 🛠️ Built With
+##  Built With
 - HTML5  
 - CSS3  
 - Bootstrap 5  
